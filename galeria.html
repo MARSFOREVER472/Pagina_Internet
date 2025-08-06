@@ -6,9 +6,92 @@
     <title>Galería de Fotos</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
-
 </head>
 <body>
+    <header>
+        <nav class="navbar navbar-dark bg-dark">
+            <div class="container">
+                <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+                    <div class="sidebar-brand-icon"></div>
+                        
+                    <div class="sidebar-brand-text mx-3">
+
+                        <img src="img/Logo_Hogar_Don_Orione_Mejorado-removebg-preview (1).png" width="100px" margin-left="auto">
+
+                    </div>
+                </a>
+                <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#contenidoMain"
+                    aria-controls="contenidoMain"
+                    aria-expanded="false"
+                    aria-label="Mostrar/Ocultar Navegación"
+                >
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="contenidoMain">
+
+                    <!-- Enlaces -->
+
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item">
+                            <a href="quienesSomos.html" class="nav-link">Quiénes Somos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="mision.html" class="nav-link">Misión</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="vision.html" class="nav-link">Visión</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="galeria.html" class="nav-link">Galería</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a 
+                                href="#" 
+                                class="nav-link dropdown-toggle"
+                                id="subMenuTransparencia"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                            >
+                                Transparencia
+                            </a>
+
+                            <!-- Sub-elementos -->
+
+                            <ul class="dropdown-menu" aria-labelledby="subMenuTransparencia">
+
+                                <li><a href="proyectos.html" class="dropdown-item">Proyectos</a></li>
+                                <li><a href="memoriaAnual.html" class="dropdown-item">Memoria Anual</a></li>
+                                <li><a href="balanceGeneral.html" class="dropdown-item">Balance General</a></li>
+                                <li><a href="colaboradores.html" class="dropdown-item">Colaboradores</a></li>
+
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a href="voluntariado.html" class="nav-link">Voluntariado</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="donaciones.html" class="nav-link">Donaciones</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="congregacion.html" class="nav-link">Congregación</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="sanLuisOrione.html" class="nav-link">San Luis Orione</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="tallerAprestoLaboral.html" class="nav-link">Taller De Apresto Laboral</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
 
     <script src="js/bootstrap.bundle.min.js"></script>
     
