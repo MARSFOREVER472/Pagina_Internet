@@ -4,4 +4,4 @@
 
 ## **_Información General_**
 
-Estructura de gobierno:
+### **_Estructura de gobierno:_**
