@@ -2,4 +2,4 @@
 
 ### **_Página web diseñada para personas en situación de Discapacidad Física y/o Intelectual, aludiendo principalmente a la Fundación Don Orione en la comuna de Antofagasta._**
 
-Información General
+## **_Información General_**
