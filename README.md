@@ -5,3 +5,5 @@
 ## **_Información General_**
 
 ### **_Estructura de gobierno:_**
+
+La Obra está dirigida a nivel local por una Hermana Directora, designada por el Consejo Provincial de la Congregación, quien actúa como Representante Legal ante todas las instancias formales en la ciudad de  Antofagasta, manteniendo coordinación permanente con organismos públicos como SENAMA, SENADIS y la SEREMI correspondiente. 
