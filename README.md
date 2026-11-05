@@ -10,8 +10,8 @@
 
 ### **_Estructura operacional:_**
 
-Además de la Dirección, los  cargos existentes son de : Directora de Salud , Directora de Rehabilitación y proyectos , 
-Administrativa contable, Asesores externos. 
+- Además de la Dirección, los  cargos existentes son de : Directora de Salud , Directora de Rehabilitación y proyectos, Administrativa contable, Asesores externos.
+  
 En consonancia con la misión y objetivo de nuestra Obra, propone promover a  nuestros usuarios , la relación entre los 
 equipos técnicos resulta fundamental. Para ello existe un trabajo coordinado, que planifica y propone soluciones de manera 
 conjunta, teniendo en consideración el perfil de cada usuario, para llevar a cabo una intervención  integral, adecuada en el 
