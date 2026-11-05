@@ -12,6 +12,6 @@
 
 - **_Además de la Dirección, los cargos existentes son de : Directora de Salud, Directora de Rehabilitación y proyectos, Administrativa contable, Asesores externos._**
   
-- **_En consonancia con la misión y objetivo de nuestra Obra, propone promover a  nuestros usuarios, la relación entre los equipos técnicos resulta fundamental. Para ello existe un trabajo coordinado, que planifica y propone soluciones de manera conjunta, teniendo en consideración el perfil de cada usuario, para llevar a cabo una intervención  integral, adecuada en el área social, de salud y laboral._**
+- **_En consonancia con la misión y objetivo de nuestra Obra, propone promover a  nuestros usuarios, la relación entre los equipos técnicos resulta fundamental. Para ello existe un trabajo coordinado, que planifica y propone soluciones de manera conjunta, teniendo en consideración el perfil de cada usuario, para llevar a cabo una intervención integral, adecuada en el área social, de salud y laboral._**
 
 - **_Para conseguir este objetivo, contamos con un equipo multidisciplinario de profesionales: Kinesiologas; Trabajadora social, Nutricionista; Terapeuta ocupacional; Fonoaudióloga; Cuidadoras de trato directo y encargados de servicios: Lavandería ; Cocina y comedor._**
