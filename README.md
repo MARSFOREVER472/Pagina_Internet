@@ -16,4 +16,4 @@
 
 - **_Para conseguir este objetivo, contamos con un equipo multidisciplinario de profesionales: Kinesiologas; Trabajadora social, Nutricionista; Terapeuta ocupacional; Fonoaudióloga; Cuidadoras de trato directo y encargados de servicios: Lavandería ; Cocina y comedor._**
 
-## Servicios
+## **_Servicios_**
