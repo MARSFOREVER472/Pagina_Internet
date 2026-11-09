@@ -40,7 +40,7 @@ aborde de manera holística las diversas dimensiones de la salud y el bienestar 
 comidas, esta función es guiada por la nutricionista , quien orienta en las porciones adecuadas según el requerimiento 
 calórico individual de cada residente._**
 
-d. **_Movilización_**
+**_d._** **_Movilización_**
 
 **_El conductor desempeña una función de gran importancia al garantizar la movilidad y el bienestar de los residentes. Uno de 
 los aspectos más destacados de la labor del chofer es la seguridad. Se encarga de transportar a los residentes de manera 
