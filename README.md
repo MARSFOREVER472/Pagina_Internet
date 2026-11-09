@@ -36,9 +36,9 @@ aborde de manera holística las diversas dimensiones de la salud y el bienestar 
 
 c. **_Cocina /Alimentación_**
 
-Las cocineras en el hogar son fundamentales para el bienestar de los residentes. Su labor se centra en la preparación de las 
+**_Las cocineras en el hogar son fundamentales para el bienestar de los residentes. Su labor se centra en la preparación de las 
 comidas, esta función es guiada por la nutricionista , quien orienta en las porciones adecuadas según el requerimiento 
-calórico individual de cada residente. 
+calórico individual de cada residente._**
 
 d. **_Movilización_**
 
