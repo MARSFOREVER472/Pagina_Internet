@@ -22,10 +22,10 @@
 
 a. **_Cuidado personalizado del usuario_**
 
-Las labores de una cuidadora incluyen proporcionar atención integral y apoyo a los residentes. Esto puede abarcar tareas 
+**_Las labores de una cuidadora incluyen proporcionar atención integral y apoyo a los residentes. Esto puede abarcar tareas 
 como ayudar con las actividades de la vida diaria (alimentación, aseo, vestimenta, entre otros), administrar medicamentos, 
 brindar compañía y apoyo emocional, mantener un entorno limpio y seguro, y asegurarse de que los usuarios gocen de una 
-buena calidad de vida. 
+buena calidad de vida._**
 
 b. **_Intervención Multidisciplinaria_**
 
