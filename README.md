@@ -42,9 +42,9 @@ calórico individual de cada residente._**
 
 d. **_Movilización_**
 
-El conductor desempeña una función de gran importancia al garantizar la movilidad y el bienestar de los residentes. Uno de 
+**_El conductor desempeña una función de gran importancia al garantizar la movilidad y el bienestar de los residentes. Uno de 
 los aspectos más destacados de la labor del chofer es la seguridad. Se encarga de transportar a los residentes de manera 
-segura desde y hacia citas médicas, actividades recreativas, y otras salidas esenciales. 
+segura desde y hacia citas médicas, actividades recreativas, y otras salidas esenciales._**
 
 e. **_Lavandería_**
 
