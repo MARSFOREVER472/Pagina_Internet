@@ -34,7 +34,7 @@ labor se caracteriza por un compromiso inquebrantable hacia las personas con dis
 en este entorno. A través de su enfoque integral, estos profesionales se esfuerzan por proporcionar una atención que 
 aborde de manera holística las diversas dimensiones de la salud y el bienestar de los residentes._**
 
-c. **_Cocina /Alimentación_**
+**_c._** **_Cocina /Alimentación_**
 
 **_Las cocineras en el hogar son fundamentales para el bienestar de los residentes. Su labor se centra en la preparación de las 
 comidas, esta función es guiada por la nutricionista , quien orienta en las porciones adecuadas según el requerimiento 
