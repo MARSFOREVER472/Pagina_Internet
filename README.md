@@ -52,7 +52,7 @@ El personal encargado de la lavandería en el Hogar se encarga de lavar, secar  
 Esto no solo incluye prendas de vestir, sino también ropa de cama, toallas y otros textiles utilizados en el cuidado diario. La 
 importancia de su labor radica en la higiene y comodidad de los residentes.  
 
-f. Aseo y Ornato  
+f. **_Aseo y Ornato_**
 
 El personal de aseo y ornato en el hogar juega un papel esencial en la creación de un entorno limpio, seguro y agradable 
 para los residentes. Esto incluye el cuidado de jardines, patios y áreas de recreación, creando un ambiente agradable y 
