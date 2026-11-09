@@ -40,7 +40,7 @@ Las cocineras en el hogar son fundamentales para el bienestar de los residentes.
 comidas, esta función es guiada por la nutricionista , quien orienta en las porciones adecuadas según el requerimiento 
 calórico individual de cada residente. 
 
-d. Movilización  
+d. **_Movilización_**
 
 El conductor desempeña una función de gran importancia al garantizar la movilidad y el bienestar de los residentes. Uno de 
 los aspectos más destacados de la labor del chofer es la seguridad. Se encarga de transportar a los residentes de manera 
