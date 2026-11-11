@@ -27,7 +27,7 @@ como ayudar con las actividades de la vida diaria (alimentación, aseo, vestimen
 brindar compañía y apoyo emocional, mantener un entorno limpio y seguro, y asegurarse de que los usuarios gocen de una 
 buena calidad de vida._**
 
-**_b._** **_Intervención Multidisciplinaria_**
+**_b._** **_Intervención Multidisciplinaria:_**
 
 **_El equipo multidisciplinario desempeña un papel esencial en el bienestar y la calidad de vida de los usuarios del hogar. Su 
 labor se caracteriza por un compromiso inquebrantable hacia las personas con discapacidad y adultas mayores que residen 
