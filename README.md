@@ -46,7 +46,7 @@ calórico individual de cada residente._**
 los aspectos más destacados de la labor del chofer es la seguridad. Se encarga de transportar a los residentes de manera 
 segura desde y hacia citas médicas, actividades recreativas, y otras salidas esenciales._**
 
-**_e._** **_Lavandería_**
+**_e._** **_Lavandería:_**
 
 **_El personal encargado de la lavandería en el Hogar se encarga de lavar, secar  la ropa de los residentes de manera regular. 
 Esto no solo incluye prendas de vestir, sino también ropa de cama, toallas y otros textiles utilizados en el cuidado diario. La 
