@@ -20,7 +20,7 @@
 
 **_Durante el año 2024, el Hogar Don Orione Antofagasta continuó su labor de brindar atención integral a personas en situación de discapacidad intelectual y /o motoras además de personas mayores. A través de un equipo multidisciplinario, que cuenta con cuidadoras de trato directo , manipuladoras de alimentos , lavandería ,chofer , auxiliar de aseo, personal administrativo, equipo de profesionales y comunidad religiosa._**
 
-**_a._** **_Cuidado personalizado del usuario_**
+**_a._** **_Cuidado personalizado del usuario:_**
 
 **_Las labores de una cuidadora incluyen proporcionar atención integral y apoyo a los residentes. Esto puede abarcar tareas 
 como ayudar con las actividades de la vida diaria (alimentación, aseo, vestimenta, entre otros), administrar medicamentos, 
