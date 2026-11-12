@@ -6,7 +6,7 @@
 
 ### **_Estructura de gobierno:_**
 
-**_La obra está dirigida a nivel local por una Hermana Directora, designada por el Consejo Provincial de la Congregación, quien actúa como Representante Legal ante todas las instancias formales en la ciudad de  Antofagasta, manteniendo una coordinación permanente con organismos públicos como SENAMA, SENADIS y la SEREMI correspondiente._** 
+**_La obra está dirigida a nivel local por una Hermana Directora, designada por el Consejo Provincial de la Congregación, quien actúa como Representante Legal ante todas las instancias formales en la ciudad de Antofagasta, manteniendo una coordinación permanente con organismos públicos como SENAMA, SENADIS y la SEREMI correspondiente._** 
 
 ### **_Estructura operacional:_**
 
@@ -22,10 +22,7 @@
 
 **_a._** **_Cuidado personalizado del usuario:_**
 
-**_Las labores de una cuidadora incluyen proporcionar atención integral y apoyo a los residentes. Esto puede abarcar tareas 
-como ayudar con las actividades de la vida diaria (alimentación, aseo, vestimenta, entre otros), administrar medicamentos, 
-brindar compañía y apoyo emocional, mantener un entorno limpio y seguro, y asegurarse de que los usuarios gocen de una 
-buena calidad de vida._**
+**_Las labores de una cuidadora incluyen proporcionar atención integral y apoyo a los residentes. Esto puede abarcar tareas como ayudar con las actividades de la vida diaria (alimentación, aseo, vestimenta, entre otros), administrar medicamentos, brindar compañía y apoyo emocional, mantener un entorno limpio y seguro, y asegurarse de que los usuarios gocen de una buena calidad de vida._**
 
 **_b._** **_Intervención Multidisciplinaria:_**
 
