@@ -29,10 +29,7 @@ buena calidad de vida._**
 
 **_b._** **_Intervención Multidisciplinaria:_**
 
-**_El equipo multidisciplinario desempeña un papel esencial en el bienestar y la calidad de vida de los usuarios del hogar. Su 
-labor se caracteriza por un compromiso inquebrantable hacia las personas con discapacidad y adultas mayores que residen 
-en este entorno. A través de su enfoque integral, estos profesionales se esfuerzan por proporcionar una atención que 
-aborde de manera holística las diversas dimensiones de la salud y el bienestar de los residentes._**
+**_El equipo multidisciplinario desempeña un papel esencial en el bienestar y la calidad de vida de los usuarios del hogar. Su labor se caracteriza por un compromiso inquebrantable hacia las personas con discapacidad y adultas mayores que residen en este entorno. A través de su enfoque integral, estos profesionales se esfuerzan por proporcionar una atención que aborde de manera holística las diversas dimensiones de la salud y el bienestar de los residentes._**
 
 **_c._** **_Cocina /Alimentación:_**
 
