@@ -38,9 +38,7 @@
 
 **_e._** **_Lavandería:_**
 
-**_El personal encargado de la lavandería en el Hogar se encarga de lavar, secar  la ropa de los residentes de manera regular. 
-Esto no solo incluye prendas de vestir, sino también ropa de cama, toallas y otros textiles utilizados en el cuidado diario. La 
-importancia de su labor radica en la higiene y comodidad de los residentes._**
+**_El personal encargado de la lavandería en el Hogar se encarga de lavar, secar  la ropa de los residentes de manera regular. Esto no solo incluye prendas de vestir, sino también ropa de cama, toallas y otros textiles utilizados en el cuidado diario. La importancia de su labor radica en la higiene y comodidad de los residentes._**
 
 **_f._** **_Aseo y Ornato:_**
 
