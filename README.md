@@ -30,9 +30,7 @@
 
 **_c._** **_Cocina/Alimentación:_**
 
-**_Las cocineras en el hogar son fundamentales para el bienestar de los residentes. Su labor se centra en la preparación de las 
-comidas, esta función es guiada por la nutricionista , quien orienta en las porciones adecuadas según el requerimiento 
-calórico individual de cada residente._**
+**_Las cocineras en el hogar son fundamentales para el bienestar de los residentes. Su labor se centra en la preparación de las comidas, esta función es guiada por la nutricionista ,quien orienta en las porciones adecuadas según el requerimiento calórico individual de cada residente._**
 
 **_d._** **_Movilización:_**
 
