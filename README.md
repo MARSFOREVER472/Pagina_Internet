@@ -42,6 +42,4 @@
 
 **_f._** **_Aseo y Ornato:_**
 
-**_El personal de aseo y ornato en el hogar juega un papel esencial en la creación de un entorno limpio, seguro y agradable 
-para los residentes. Esto incluye el cuidado de jardines, patios y áreas de recreación, creando un ambiente agradable y 
-atractivo para los residentes._**
+**_El personal de aseo y ornato en el hogar juega un papel esencial en la creación de un entorno limpio, seguro y agradable para los residentes. Esto incluye el cuidado de jardines, patios y áreas de recreación, creando un ambiente agradable y atractivo para los residentes._**
