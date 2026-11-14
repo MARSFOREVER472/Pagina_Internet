@@ -18,7 +18,7 @@
 
 ## **_Servicios_**
 
-**_Durante el año 2024, el Hogar Don Orione Antofagasta continuó su labor de brindar atención integral a personas en situación de discapacidad intelectual y /o motoras además de personas mayores. A través de un equipo multidisciplinario, que cuenta con cuidadoras de trato directo , manipuladoras de alimentos , lavandería , chofer , auxiliar de aseo, personal administrativo, equipo de profesionales y comunidad religiosa._**
+**_Durante el año 2024, el Hogar Don Orione Antofagasta continuó su labor de brindar atención integral a personas en situación de discapacidad intelectual y /o motoras además de personas mayores. A través de un equipo multidisciplinario, que cuenta con cuidadoras de trato directo, manipuladoras de alimentos, lavandería, chofer, auxiliar de aseo, personal administrativo, equipo de profesionales y comunidad religiosa._**
 
 **_a._** **_Cuidado personalizado del usuario:_**
 
